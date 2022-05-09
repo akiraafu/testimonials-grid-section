@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/akiraafu/testimonials-grid-section)
--   Live Site URL: [Add live site URL here](https://htmlpreview.github.io/?https://github.com/akiraafu/testimonials-grid-section/blob/f3c76f5deb27e84be50e69d428d33d7712e8bb6f/index.html)
+-   Solution URL: [https://github.com/akiraafu/testimonials-grid-section]
+-   Live Site URL: [https://htmlpreview.github.io/?https://github.com/akiraafu/testimonials-grid-section/blob/f3c76f5deb27e84be50e69d428d33d7712e8bb6f/index.html]
 
 ## My process
 
